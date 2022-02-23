@@ -44,135 +44,217 @@ function color(buttonid) {
 
 
 document.getElementById("a1").onclick = function () {
-    var button_id = "a1"
+    var button_id = "a1";
     soundplay(button_id);
-    color(button_id)
+    color(button_id);
 };
 
 document.getElementById("a2").onclick = function () {
-    var button_id = "a2"
+    var button_id = "a2";
     soundplay(button_id);
-    color(button_id)
+    color(button_id);
 };
 
 document.getElementById("a3").onclick = function () {
-    var button_id = "a3"
+    var button_id = "a3";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("a4").onclick = function () {
+    var button_id = "a4";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("a5").onclick = function () {
+    var button_id = "a5";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("a6").onclick = function () {
+    var button_id = "a6";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("a7").onclick = function () {
+    var button_id = "a7";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("a8").onclick = function () {
+    var button_id = "a8";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("a9").onclick = function () {
+    var button_id = "a9";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("b1").onclick = function () {
+    var button_id = "b1";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("b2").onclick = function () {
+    var button_id = "b2";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("b3").onclick = function () {
+    var button_id = "b3";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("b4").onclick = function () {
+    var button_id = "b4";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("b5").onclick = function () {
+    var button_id = "b5";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("b6").onclick = function () {
+    var button_id = "b6";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("b7").onclick = function () {
+    var button_id = "b7";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("b8").onclick = function () {
+    var button_id = "b8";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("b9").onclick = function () {
+    var button_id = "b9";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("c1").onclick = function () {
+    var button_id = "c1";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("c2").onclick = function () {
+    var button_id = "c2";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("c3").onclick = function () {
+    var button_id = "c3";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("c4").onclick = function () {
+    var button_id = "c4";
     soundplay(button_id);
     color(button_id)
 };
 
-document.getElementById("a4").onclick = function () {
-    soundplay("a4");
-};
-
-document.getElementById("a5").onclick = function () {
-    soundplay("a5");
-};
-
-document.getElementById("a7").onclick = function () {
-    soundplay("a7");
-};
-
-document.getElementById("a8").onclick = function () {
-    soundplay("a8");
-};
-
-document.getElementById("a9").onclick = function () {
-    soundplay("a9");
-};
-
-document.getElementById("b1").onclick = function () {
-    soundplay("b1");
-};
-
-document.getElementById("b2").onclick = function () {
-    soundplay("b2");
-};
-
-document.getElementById("b3").onclick = function () {
-    soundplay("b3");
-};
-
-document.getElementById("b4").onclick = function () {
-    soundplay("b4");
-};
-
-document.getElementById("b5").onclick = function () {
-    soundplay("b5");
-};
-
-document.getElementById("b6").onclick = function () {
-    soundplay("b6");
-};
-
-document.getElementById("b7").onclick = function () {
-    soundplay("b7");
-};
-
-document.getElementById("b8").onclick = function () {
-    soundplay("b8");
-};
-
-document.getElementById("b9").onclick = function () {
-    soundplay("b9");
-};
-
-document.getElementById("c1").onclick = function () {
-    soundplay("c1");
-};
-
-document.getElementById("c2").onclick = function () {
-    soundplay("c2");
-};
-
-document.getElementById("c3").onclick = function () {
-    soundplay("c3");
-};
-
-document.getElementById("c4").onclick = function () {
-    soundplay("c5");
+document.getElementById("c5").onclick = function () {
+    var button_id = "c5";
+    soundplay(button_id);
+    color(button_id);
 };
 
 document.getElementById("c6").onclick = function () {
-    soundplay("c6");
+    var button_id = "c6";
+    soundplay(button_id);
+    color(button_id);
 };
 
 document.getElementById("c7").onclick = function () {
-    soundplay("c7");
+    var button_id = "c7";
+    soundplay(button_id);
+    color(button_id);
 };
 
 document.getElementById("c8").onclick = function () {
-    soundplay("c8");
+    var button_id = "c8";
+    soundplay(button_id);
+    color(button_id);
 };
 
 document.getElementById("c9").onclick = function () {
-    soundplay("c9");
+    var button_id = "c9";
+    soundplay(button_id);
+    color(button_id);
 };
 
 document.getElementById("d1").onclick = function () {
-    soundplay("d1");
+    var button_id = "d1";
+    soundplay(button_id);
+    color(button_id);
 };
 
 document.getElementById("d2").onclick = function () {
-    soundplay("d2");
+    var button_id = "d2";
+    soundplay(button_id);
+    color(button_id);
 };
 
 document.getElementById("d3").onclick = function () {
-    soundplay("d3");
+    var button_id = "d3";
+    soundplay(button_id);
+    color(button_id);
 };
 
 document.getElementById("d4").onclick = function () {
-    soundplay("d5");
+    var button_id = "d4";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("d5").onclick = function () {
+    var button_id = "d5";
+    soundplay(button_id);
+    color(button_id);
 };
 
 document.getElementById("d6").onclick = function () {
-    soundplay("d7");
+    var button_id = "d6";
+    soundplay(button_id);
+    color(button_id);
+};
+
+document.getElementById("d7").onclick = function () {
+    var button_id = "d7";
+    soundplay(button_id);
+    color(button_id);
 };
 
 document.getElementById("d8").onclick = function () {
-    soundplay("d8");
+    var button_id = "d8";
+    soundplay(button_id);
+    color(button_id);
 };
 
 document.getElementById("d9").onclick = function () {
-    soundplay("d9");
+    var button_id = "d9";
+    soundplay(button_id);
+    color(button_id);
 };
